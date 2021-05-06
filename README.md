@@ -6,4 +6,4 @@
 ### To get to know how something works or is created, create one from scratch
 
 ## Goals
-- [] 
+- [ ]
